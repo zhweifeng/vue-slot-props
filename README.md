@@ -58,10 +58,6 @@ vue中关于插槽的文档说明很短，语言又写的很凝练，再加上�
   <span>菜单5</span>
   <span>菜单6</span>
 </div>
-```
-
-最终的渲染结果如图所示：
-![](https://github.com/cunzaizhuyi/blog-assets/blob/master/vue-slot/slot1.png?raw=true)
 
 ```
 
@@ -224,23 +220,6 @@ OK，我们说有html模板的情况，就是父组件会往子组件插模板�
     }
 }
 ```
-结果如图所示：
 
-![](https://github.com/cunzaizhuyi/blog-assets/blob/master/vue-slot/slot3.png?raw=true)
-
-## github
-
-以上三个demo就放在GitHub了，有需要的可以去取。使用非常方便，是基于vue-cli搭建工程。
-
-[地址点这里](https://github.com/cunzaizhuyi/vue-slot-demo)
-
-## 最后
-
-如果本文对你理解slot和scope-slot有帮助，请不要吝啬手中的点赞哟。
-编程贵在实践，赶紧行动起来吧！
-
-### 关于作者
-
-[技术博客](https://cunzaizhuyi.github.io)  || [GitHub](https://github.com/cunzaizhuyi)  || [掘金主页](https://juejin.im/user/5934c9f5fe88c20061cc7058/posts)
 
 
